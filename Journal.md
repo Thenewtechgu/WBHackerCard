@@ -6,6 +6,7 @@ Summary:
 - A Xiao Esp32c3 to act as a network adapter for First Tech Challenge coding
 - A mini PCB ruler too
 - A Xiao 2040 for "hacking" with IR sensor, IMU, LEDs
+
 Date 25 July 2025
 Task: Placing all the components onto the schematic 
 Time: 2 hour (because I couldn't find the antenna :((. Welp, now I know not to use EDAPro :)
